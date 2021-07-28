@@ -5,6 +5,7 @@ This script will remove all posts where troll nick mentioned including quoted po
 
 Script works only on computers (not mobile phones). 
 
-Use Google Chrome for it and this plugin: https://chrome.google.com/webstore/detail/custom-javascript-for-web/ddbjnfjiigjmcpcpkmhogomapikjbjdk
+Use Google Chrome for it and this plugin:
+https://chrome.google.com/webstore/detail/custom-javascript-for-web/ddbjnfjiigjmcpcpkmhogomapikjbjdk
 
 Use this script for https://www.forexfactory.com/
